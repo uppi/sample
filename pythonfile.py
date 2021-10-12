@@ -1,2 +1,2 @@
 def foo():
-  print(3)
+  print(4)
